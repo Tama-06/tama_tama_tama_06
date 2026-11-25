@@ -4,7 +4,7 @@
 
 ## 🔗 Ссылка на сайт
 
-**(https://tama-06.github.io/tama_tama_tama_06/)**
+**https://tama-06.github.io/tama_tama_tama_06/**
 
 > Замените на свою ссылку после публикации на GitHub Pages.
 
