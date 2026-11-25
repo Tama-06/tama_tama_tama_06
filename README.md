@@ -1,1 +1,0 @@
-# tama_tama_tama_06
