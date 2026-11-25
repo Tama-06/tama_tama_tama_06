@@ -4,7 +4,7 @@
 
 ## 🔗 Ссылка на сайт
 
-**https://ВАШ-ЛОГИН.github.io/ВАШ-РЕПОЗИТОРИЙ/**
+**https://tama-06.github.io/tama_tama_tama_06/**
 
 > Замените на свою ссылку после публикации на GitHub Pages.
 
